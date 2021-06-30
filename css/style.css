@@ -153,7 +153,7 @@ img {
 #  top
 ============================================ */
 .top {
-  background: url(/img/top.jpg) center/100% no-repeat;
+  background: url(https://smnm1989.github.io/portfolio/img/top.jpg) center/100% no-repeat;
   padding-top: 66.66%;
   position: relative;
 }
@@ -451,7 +451,7 @@ img {
 #  contact
 ============================================ */
 .contact {
-  background: url(/img/contact.jpg) top left/cover;
+  background: url(https://smnm1989.github.io/portfolio/img/contact.jpg) top left/cover;
 }
 
 .contact_form {
